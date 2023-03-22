@@ -1,6 +1,6 @@
 # Host to use for canonical URL generation (without trailing slash)
-host: https://gds-way.cloudapps.digital
-service_link: /
+host: https://two-first-names.github.io
+service_link: /gds-way
 
 # Header-related options
 show_govuk_logo: false
